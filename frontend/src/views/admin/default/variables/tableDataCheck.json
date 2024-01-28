@@ -1,0 +1,31 @@
+[{
+  "name":["Day 1",false],
+  "quantity": 2458, 
+  "date": "21 Jan",
+  "progress": 17.5  
+},
+{
+  "name":["Day 2",true],
+  "quantity": 1485, 
+  "date": "22 Jan",
+  "progress": 10.8  
+},
+{
+  "name":["Day 3",true],
+  "quantity": 1024, 
+  "date": "23 Jan",
+  "progress": 21.3  
+},
+{
+  "name":["Day 4",true],
+  "quantity": 858, 
+  "date": "24 Jan ",
+  "progress": 31.5  
+},
+{
+  "name":["Day 5",false],
+  "quantity": 258, 
+  "date": "25 Jan",
+  "progress": 12.2  
+}
+]
